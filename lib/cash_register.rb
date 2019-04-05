@@ -29,7 +29,7 @@ class CashRegister
     @items
   end
   
-  def void_last_transaction(price, quantity)
+  def void_last_transaction(price, quantity=1)
     
   end
   
